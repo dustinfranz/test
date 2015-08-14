@@ -1,2 +1,2 @@
-pwd
+touch test.txt
 ###
