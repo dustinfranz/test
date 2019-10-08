@@ -5,5 +5,5 @@ CREATE PROCEDURE dbo.StoredProcedureName
 -- add more stored procedure parameters here
 AS
     -- body of the stored procedure
-    SELECT @param1, @param2
+    SELECT @param1, @param2, 1
 GO
